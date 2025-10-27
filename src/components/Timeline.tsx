@@ -16,50 +16,38 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="Nov 2024 - Oct 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Keepworks Technologies Pvt. Ltd. - Coimbatore, TN</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Developed and maintained web applications using .NET and Angular frameworks. Built responsive UIs and ensured seamless API integration for client projects.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="Oct 2021 - Nov 2024"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Transcription QA</h3>
+            <h4 className="vertical-timeline-element-subtitle">RND Softech Pvt. Ltd. - Coimbatore, TN</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+              Ensured accuracy and quality. Maintained productivity and client-spec compliance. Coordinated with team members to improve workflow efficiency.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            className="vertical-timeline-element--education"
+            date="2018 - 2021"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Bachelor of Computer Applications (BCA)</h3>
+            <h4 className="vertical-timeline-element-subtitle">KG College of Arts and Science, Coimbatore</h4>
             <p>
-              Full-stack Development, API Development, User Experience
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2020 - 2020"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
-            <p>
-              Automation, Data Governance, Statistical Analysis
+              Major: Software Development | Minor: Web Technologies. Current Aggregate: 70% (Consistently above 80% in 10th, 12th, and undergraduate studies)
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
