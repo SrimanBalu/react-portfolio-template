@@ -1,8 +1,8 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
-import mock02 from '../assets/images/mock02.png';
-import mock03 from '../assets/images/mock03.png';
-import mock04 from '../assets/images/mock04.png';
+import mock01 from '../assets/images/DotNetReact.webp';
+import mock02 from '../assets/images/Best-eCommerce-Platforms.jpg';
+import mock03 from '../assets/images/6554783.jpg';
+import mock04 from '../assets/images/7090333.jpg';
 import mock05 from '../assets/images/mock05.png';
 import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
@@ -17,9 +17,9 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <img src={mock01} className="zoom" alt="thumbnail" width="100%"/>
-                <h2>Web Application with .NET & Angular</h2>
-                <p>Full-stack web application developed using .NET Framework for backend API and Angular for responsive frontend. Features include user authentication, data management, and responsive design.</p>
+                <img src={mock01} className="zoom" alt="thumbnail" width="100%" height="62%"/>
+                <h2>Web Application with .NET & React</h2>
+                <p>Full-stack web application developed using .NET Framework for backend API and React for responsive frontend. Features include user authentication, data management, and responsive design.</p>
             </div>
             <div className="project">
                 <img src={mock02} className="zoom" alt="thumbnail" width="100%"/>
@@ -32,7 +32,7 @@ function Project() {
                 <p>Designed and implemented a robust database management system using SQL and MongoDB. Created efficient data models and optimized queries for improved performance.</p>
             </div>
             <div className="project">
-                <img src={mock04} className="zoom" alt="thumbnail" width="100%"/>
+                <img src={mock04} className="zoom" alt="thumbnail" width="100%" height="56%"/>
                 <h2>REST API Development</h2>
                 <p>Developed RESTful APIs using .NET Framework with comprehensive documentation. Implemented authentication, error handling, and data validation for seamless client integration.</p>
             </div>

@@ -20,7 +20,7 @@ const labelsFirst = [
 ];
 
 const labelsSecond = [
-    "MongoDB",
+    // "MongoDB",
     "SQL",
     "REST APIs",
     "Frontend Development",
@@ -75,7 +75,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>Full Stack Solutions</h3>
-                    <p>Capable of delivering end-to-end web applications with expertise in both frontend and backend development, ensuring scalable and efficient solutions for diverse client requirements.</p>
+                    <p>Capable of delivering end-to-end web applications with expertise in both frontend and backend development, ensuring scalable solutions for diverse client requirements.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsThird.map((label, index) => (

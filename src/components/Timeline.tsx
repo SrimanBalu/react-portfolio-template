@@ -21,7 +21,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Keepworks Technologies Pvt. Ltd. - Coimbatore, TN</h4>
+            <h4 className="vertical-timeline-element-subtitle">Keenminds Technologies Pvt. Ltd. - Coimbatore, TN</h4>
             <p>
               Developed and maintained web applications using .NET and Angular frameworks. Built responsive UIs and ensured seamless API integration for client projects.
             </p>
